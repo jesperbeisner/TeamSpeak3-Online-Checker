@@ -1,0 +1,10 @@
+<?php
+
+declare(strict_types=1);
+
+return [
+    'TS3_URL' => 'PLACEHOLDER', // localhost:10080/1/clientlist?-uid
+    'TS3_API_KEY' => 'PLACEHOLDER', // Th1sIsAL0ngAp1Key
+    'TELEGRAM_URL' => 'PLACEHOLDER', // https://api.telegram.org/bot{YOUR-API-KEY}/sendMessage
+    'TELEGRAM_CHAT_ID' => 'PLACEHOLDER', // 1234567890
+];
